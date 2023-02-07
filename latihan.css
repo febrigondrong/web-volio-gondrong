@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 9rem;
+  background: linear-gradient(to top, #336699 24%, #ccffff 198%);
+}
+#Galeri {
+  background: linear-gradient(to top, #66ffff 0%, #003366 100%);
+}
+section {
+  padding-top: 8rem;
+}
+h5 {
+  padding-top: 1rem;
+}
